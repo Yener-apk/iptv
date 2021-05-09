@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF​:-1 ,CANAL PENIEL FAMILIAR
+https://stream.oursnetworktv.com/latin/MaPeniE1YuFaMilyaRyO/playlist.m3u8
+
+#EXTINF​:-1 ,TELE ONCE
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+
+#EXTINF​:-1 ,TOP LATINO TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+
+#EXTINF​:-1 ,PEQUE TV
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF​:-1 ,TOP LATINO
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+
+#EXTINF​:-1 ,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF​:-1 ,MUSICA
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
